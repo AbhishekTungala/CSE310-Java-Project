@@ -14,3 +14,7 @@
 ### Order Frame:
 
 ([Order Frame code!](https://github.com/AbhishekTungala/CSE310-Java-Project/blob/d5dcf44ee80037739fd00fce61098d46506d0a2e/OrderFrame.java))
+
+### Payment Frame:
+
+([Payment Frame code!](https://github.com/AbhishekTungala/CSE310-Java-Project/blob/c0f7e4dab9d7bf8cbdfbdd26b2368d12dd7aba15/PaymentFrame.java))
