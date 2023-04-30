@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=009197&lines=Restaurant+Management+System+🥘)](https://git.io/typing-svg)                                                                                                 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=009197&lines=Restaurant+Management+System+🥘)](https://git.io/typing-svg)                                                                                                 
 
 
 # Codes:🧑‍💻
