@@ -16,8 +16,8 @@
 ([Payment Frame code!](https://github.com/AbhishekTungala/CSE310-Java-Project/blob/c0f7e4dab9d7bf8cbdfbdd26b2368d12dd7aba15/PaymentFrame.java))
 
 # Report:📑
-([Report](https://github.com/AbhishekTungala/CSE310-Java-Project/blob/e8b6734c7f5a4f99ad01a855a3340ef84036ac26/Restaurant%20Management%20System%20Report.pdf))
+([Report.pdf](https://github.com/AbhishekTungala/CSE310-Java-Project/blob/e8b6734c7f5a4f99ad01a855a3340ef84036ac26/Restaurant%20Management%20System%20Report.pdf))
 
 # Presentation:📹
-([Report](https://github.com/AbhishekTungala/CSE310-Java-Project/blob/e8b6734c7f5a4f99ad01a855a3340ef84036ac26/Restaurant%20Management%20System%20Presentation.pptx))
+([Presenation.ppt](https://github.com/AbhishekTungala/CSE310-Java-Project/blob/e8b6734c7f5a4f99ad01a855a3340ef84036ac26/Restaurant%20Management%20System%20Presentation.pptx))
 
